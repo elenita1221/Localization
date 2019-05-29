@@ -20,13 +20,7 @@ This implementation is written in Keras and uses ResNet-50, which was __not__ ex
 - matplotlib
 - opencv3
 
-## Usage
 
-``` 
-git clone https://github.com/alexisbcook/ResNetCAM-keras.git
-cd ResNetCAM-keras
-python ResNet_CAM.py images/dog.png
-```
 
 Feel free to try out your own image by replacing `images/dog.png` with a file path to another image! :)
 
@@ -34,6 +28,4 @@ Feel free to try out your own image by replacing `images/dog.png` with a file pa
 
 ![Dog Localization][image1]
 
-## Blog Post
 
-This repository is discussed in the blog post [here](https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/).
